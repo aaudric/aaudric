@@ -23,9 +23,8 @@ The implementation of a car game developed using Pygame and a DQN (Deep Q-Networ
 
 ## Skills
 
-- **Programming Languages :** Python, JavaScript, C++
-- **Frameworks and Libraries :** TensorFlow, Keras, React
-- **Tools and Platforms :** Git, Docker, AWS
+- **Programming Languages :** Python, JavaScript, C#
+- **Frameworks and Libraries :** TensorFlow, Keras, Pandas, Numpy, Sklearn, Matplotlib, Seaborn
 - **Other :** Data Science, Machine Learning, Neural Networks
 
 <div align="center">
