@@ -8,8 +8,6 @@ I'm Audric Girondin, a passionate software developer and AI enthusiast. I love b
 
 - 🔭 I’m currently working on various AI and ML projects
 - 🌱 I’m currently learning advanced machine learning techniques and deep learning
-- 👯 I’m looking to collaborate on open-source AI projects
-- 🤔 I’m looking for help with large-scale data processing
 - 💬 Ask me about AI, machine learning, and software development
 - ⚡ Fun fact: I love to travel and explore new cultures, play golf, and fly drones
 
