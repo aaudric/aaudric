@@ -31,13 +31,11 @@ The implementation of a car game developed using Pygame and a DQN (Deep Q-Networ
 <div align="center">
 
 ## GitHub Stats and Top Languages
+<p align="center">
+    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=aaudric&show_icons=true&hide_border=true" alt="GitHub Stats">
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaudric&layout=compact" alt="Top Languages">
+</p>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=aaudric&show_icons=true&hide_border=true" alt="GitHub Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaudric&layout=compact" alt="Top Languages"></td>
-  </tr>
-</table>
 
 ## GitHub Activity Graph
 
