@@ -27,11 +27,10 @@ The implementation of a car game developed using Pygame and a DQN (Deep Q-Networ
 - **Frameworks and Libraries :** TensorFlow, Keras, Pandas, Numpy, Sklearn, Matplotlib, Seaborn
 - **Other :** Data Science, Machine Learning, Neural Networks
 
-<div align="center">
 
 ## GitHub Stats and Top Languages
-<p>
-    <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=aaudric&show_icons=true&hide_border=true" alt="GitHub Stats">
+<p align="center">
+    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=aaudric&show_icons=true&hide_border=true" alt="GitHub Stats">
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaudric&layout=compact" alt="Top Languages">
 </p>
 
@@ -39,7 +38,6 @@ The implementation of a car game developed using Pygame and a DQN (Deep Q-Networ
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aaudric&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
 
 ## Contact Me
 
