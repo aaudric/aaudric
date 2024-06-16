@@ -1,6 +1,6 @@
 # Hi there, I'm Audric Girondin ! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=aaudric)
+![Profile views](https://komarev.com/ghpvc/?username=aaudric&style=for-the-badge&color=blue)
 
 ## About Me
 
