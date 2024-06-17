@@ -21,11 +21,31 @@ A Tron game enhanced with AI where players are controlled using neural networks.
 ### [CarGame](https://github.com/aaudric/CarGame)
 The implementation of a car game developed using Pygame and a DQN (Deep Q-Network) agent for reinforcement learning. 
 
-## Skills
 
-- **Programming Languages :** Python, JavaScript, C#
-- **Frameworks and Libraries :** TensorFlow, Keras, Pandas, Numpy, Sklearn, Matplotlib, Seaborn
-- **Other :** Data Science, Machine Learning, Neural Networks
+
+## Languages and Tools 
+<div>
+
+### Languages :
+| Python3 | Csharp | HTML 5 | JS | CSS3 |
+|----------|----------|----------|----------|----------|
+|  <img src="logo/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="logo/csharp-original.svg" title="C#"  alt="C#" width="55" height="55"/> | <img src="logo/html5-original-wordmark.svg" title="HTML5"  alt="HTML5" width="55" height="55"/> |  <img src="logo/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="logo/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="55" height="55"/> | 
+
+  
+
+### Best frameworks and main libraries for Python3 :
+
+| Tensorflow | Keras | Numpy | Pandas | Sklearn | Matplotlib | 
+|----------|----------|----------|----------|----------|----------|
+|  <img src="logo/tensorflow-original-wordmark.svg" title="Tensorflow"  alt="Tensorflow" width="55" height="55"/>|  <img src="logo/keras-original-wordmark.svg" title="keras"  alt="keras" width="55" height="55"/>|  <img src="logo/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="logo/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="logo/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="logo/matplotlib-original-wordmark.svg" title="matplotlib" alt="matplotlib" width="55" height="55"/>|
+
+
+### My tools for Data Manipulation :
+
+Jupyter | MySQL | Postgres |
+|----------|----------|----------|
+|<img src="logo/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="logo/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="logo/postgresql-original-wordmark.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
+
 
 
 ## GitHub Stats and Top Languages
