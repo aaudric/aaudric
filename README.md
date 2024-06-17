@@ -44,7 +44,7 @@ The implementation of a car game developed using Pygame and a DQN (Deep Q-Networ
 
 Jupyter | MySQL | Postgres |
 |----------|----------|----------|
-|<img src="logo/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="logo/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="logo/postgresql-original-wordmark.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
+|<img src="logo/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="logo/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="logo/postgresql-original-wordmark.svg" title="pg" alt="pg" width="55" height="55"/>|
 
 
 
@@ -65,5 +65,4 @@ Jupyter | MySQL | Postgres |
 
 ## Contact Me
 
-- Email : [audricgir@gmail.com](mailto:audricgir@gmail.com)
-- LinkedIn : [Audric Girondin](https://www.linkedin.com/in/audric-girondin/)
+- Linkedin : [Audric Girondin](https://www.linkedin.com/in/audric-girondin/) </p>
