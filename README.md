@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm Audric Girondin, a passionate software developer and AI enthusiast. I love building innovative solutions and exploring new technologies, especially in the field of artificial intelligence and machine learning.
+I'm Audric Girondin, a passionate software developer and AI enthusiast. I love building innovative solutions and exploring new technologies, especially in the field of artificial intelligence and machine learning. I'm also a Master's student in Applied Mathematics and Computer Science.
 
 - 🔭 I’m currently working on various AI and ML projects
 - 🌱 I’m currently learning advanced machine learning techniques and deep learning
