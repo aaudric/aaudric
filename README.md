@@ -35,8 +35,13 @@ The implementation of a car game developed using Pygame and a DQN (Deep Q-Networ
 </p>
 
 ## GitHub Activity Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aaudric&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaudric&theme=react-dark" alt="Ashutosh's github activity graph">
+    </a>
+    <br>
+    <img src="https://github.com/aaudric/aaudric/blob/output/ocean.gif" alt="snake animation">
+</p>
 
 ## Contact Me
 
