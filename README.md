@@ -74,7 +74,7 @@ Jupyter | MySQL | Postgres |
 
 ## Contact Me
 
-- Linkedin : [Audric Girondin](https://www.linkedin.com/in/audric-girondin/) </p>
+- Linkedin : [Audric Girondin](https://www.linkedin.com/in/audric-girondin/) 
 
 
 
