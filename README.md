@@ -27,9 +27,9 @@ The implementation of a car game developed using Pygame and a DQN (Deep Q-Networ
 <div>
 
 ### Languages :
-| Python3 | Csharp | HTML 5 | JS | CSS3 |
-|----------|----------|----------|----------|----------|
-|  <img src="logo/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="logo/csharp-original.svg" title="C#"  alt="C#" width="55" height="55"/> | <img src="logo/html5-original-wordmark.svg" title="HTML5"  alt="HTML5" width="55" height="55"/> |  <img src="logo/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="logo/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="55" height="55"/> | 
+| Python3 | Rstudio | Csharp | HTML 5 | JS | CSS3 |
+|----------|----------|----------|----------|----------|----------|
+|  <img src="logo/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="logo/rstudio-original.svg" title="Rstudio"  alt="Rstudio" width="55" height="55"/> | <img src="logo/csharp-original.svg" title="C#"  alt="C#" width="55" height="55"/> | <img src="logo/html5-original-wordmark.svg" title="HTML5"  alt="HTML5" width="55" height="55"/> |  <img src="logo/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="logo/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="55" height="55"/> | 
 
   
 
