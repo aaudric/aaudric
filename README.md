@@ -49,11 +49,13 @@ Jupyter | MySQL | Postgres |
 
 
 
-## GitHub Stats and Top Languages
+## GitHub Stats
 <p align="center">
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=aaudric&show_icons=true&hide_border=true" alt="GitHub Stats">
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaudric&layout=compact" alt="Top Languages">
-</p>
+
+[![](https://raw.githubusercontent.com/aaudric/aaudric/main/profile-summary-card-output/prussian/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/aaudric/aaudric/main/profile-summary-card-output/prussian/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/aaudric/aaudric/main/profile-summary-card-output/prussian/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/aaudric/aaudric/main/profile-summary-card-output/prussian/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/aaudric/aaudric/main/profile-summary-card-output/prussian/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 ## GitHub Activity Graph
 <p align="center">
@@ -68,10 +70,6 @@ Jupyter | MySQL | Postgres |
 
 - Linkedin : [Audric Girondin](https://www.linkedin.com/in/audric-girondin/) </p>
 
-![dzd](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aaudric&theme=transparent&utcOffset={utcOffset})
-
-
-![k](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaudric&theme=transparent)
 
 
 
