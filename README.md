@@ -67,3 +67,11 @@ Jupyter | MySQL | Postgres |
 ## Contact Me
 
 - Linkedin : [Audric Girondin](https://www.linkedin.com/in/audric-girondin/) </p>
+
+![dzd](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aaudric&theme=transparent&utcOffset={utcOffset})
+
+
+![k](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaudric&theme=transparent)
+
+
+
