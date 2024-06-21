@@ -24,6 +24,9 @@ The implementation of a car game developed using Pygame and a DQN (Deep Q-Networ
 ### [Gender-and-Age-Detection](https://github.com/aaudric/Gender-and-Age-Detection)
 This project uses deep learning to predict gender and age from facial images.
 
+### [🌹🌻 Flower Classification with CNN 🌼🌺](https://github.com/aaudric/Flower-Classification-with-CNN)
+This project uses Convolutional Neural Networks (CNN) to classify images of flowers into different categories. The dataset consists of flower images categorized into five classes.
+
 ## Languages and Tools 
 <div>
 
