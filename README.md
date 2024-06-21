@@ -45,7 +45,7 @@ Contribution during study and research work at the Paul Valéry III University o
 
 ### Best frameworks and main libraries for Python3 :
 
-| Tensorflow | Keras | Numpy | Pandas | Sklearn | Matplotlib | 
+| Tensorflow | Keras | NumPy | Pandas | Sklearn | Matplotlib | 
 |----------|----------|----------|----------|----------|----------|
 |  <img src="logo/tensorflow-original-wordmark.svg" title="Tensorflow"  alt="Tensorflow" width="55" height="55"/>|  <img src="logo/keras-original-wordmark.svg" title="keras"  alt="keras" width="55" height="55"/>|  <img src="logo/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="logo/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="logo/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="logo/matplotlib-original-wordmark.svg" title="matplotlib" alt="matplotlib" width="55" height="55"/>|
 
