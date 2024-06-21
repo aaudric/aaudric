@@ -18,7 +18,7 @@ Here are some of my notable projects:
 ### [AudricTron](https://github.com/aaudric/audricTron)
 A Tron game enhanced with AI where players are controlled using neural networks. The AI is trained using Keras to make smart movement decisions.
 
-### [CarGame](https://github.com/aaudric/CarGame)
+### [CarGame 🚘](https://github.com/aaudric/CarGame)
 The implementation of a car game developed using Pygame and a DQN (Deep Q-Network) agent for reinforcement learning. 
 
 ### [Gender-and-Age-Detection](https://github.com/aaudric/Gender-and-Age-Detection)
