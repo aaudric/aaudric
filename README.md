@@ -27,6 +27,12 @@ This project uses deep learning to predict gender and age from facial images.
 ### [🌹🌻 Flower Classification with CNN 🌼🌺](https://github.com/aaudric/Flower-Classification-with-CNN)
 This project uses Convolutional Neural Networks (CNN) to classify images of flowers into different categories. The dataset consists of flower images categorized into five classes.
 
+### [MNIST Classification](https://github.com/aaudric/MNIST)
+This project demonstrates the use of a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset.
+
+### [Visualisations de tweets controversés](https://github.com/alyasltd/TER-2023-2024-Visualisations_de_tweets_controverses)
+Contribution during study and research work at the Paul Valéry III University of Montpellier with LIRMM and Janssen Horizon. Analysis of controversial tweets around health.
+
 ## Languages and Tools 
 <div>
 
