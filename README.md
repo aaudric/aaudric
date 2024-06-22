@@ -15,7 +15,7 @@ I'm Audric Girondin, a passionate software developer and AI enthusiast. I love b
 
 Here are some of my notable projects:
 
-### [AudricTron](https://github.com/aaudric/audricTron)
+### [AudricTron 🏍️](https://github.com/aaudric/audricTron)
 A Tron game enhanced with AI where players are controlled using neural networks. The AI is trained using Keras to make smart movement decisions.
 
 ### [CarGame 🚘](https://github.com/aaudric/CarGame)
