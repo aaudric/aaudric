@@ -30,7 +30,7 @@ This project uses Convolutional Neural Networks (CNN) to classify images of flow
 ### [FrozenLake ❄️🕹️☃️](https://github.com/aaudric/FrozenLake)
 This project implements a Deep Q-Learning (DQN) agent to solve the FrozenLake environment from OpenAI's Gym. The agent uses a neural network to approximate the Q-value function and employs experience replay to learn from past experiences.
 
-### [MNIST Classification](https://github.com/aaudric/MNIST)
+### [MNIST Classification 🔢](https://github.com/aaudric/MNIST)
 This project demonstrates the use of a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset.
 
 ### [Visualisations de tweets controversés](https://github.com/alyasltd/TER-2023-2024-Visualisations_de_tweets_controverses)
