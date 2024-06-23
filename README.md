@@ -21,7 +21,7 @@ A Tron game enhanced with AI where players are controlled using neural networks.
 ### [CarGame 🚘](https://github.com/aaudric/CarGame)
 The implementation of a car game developed using Pygame and a DQN (Deep Q-Network) agent for reinforcement learning. 
 
-### [Gender-and-Age-Detection](https://github.com/aaudric/Gender-and-Age-Detection)
+### [Gender-and-Age-Detection 👴🏼 👵🏼](https://github.com/aaudric/Gender-and-Age-Detection)
 This project uses deep learning to predict gender and age from facial images.
 
 ### [🌹🌻 Flower Classification with CNN 🌼🌺](https://github.com/aaudric/Flower-Classification-with-CNN)
