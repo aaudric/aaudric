@@ -39,7 +39,7 @@ This project aims to predict Alzheimer's Disease using various machine learning 
 ### [INM-Explain](https://github.com/alyasltd/TER-2023-2024-Visualisations_de_tweets_controverses)
 Contribution during study and research work at the Paul Valéry III University of Montpellier with LIRMM and Janssen Horizon. Analysis of controversial tweets around health and INM.
 
-### [Projet Big Data : Analyse des ventes avec PySpark](https://github.com/aaudric/Projet-Big-Data)
+### [Big Data Project : Sales Analysis with PySpark](https://github.com/aaudric/Projet-Big-Data)
 This project involves analyzing sales data using PySpark to extract insights and patterns from the data. The analysis includes data preprocessing, exploratory data analysis, and machine learning model building.
 
 ## Languages and Tools 
