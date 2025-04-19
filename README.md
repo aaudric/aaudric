@@ -42,6 +42,9 @@ Contribution during study and research work at the Paul Valéry III University o
 ### [Big Data Project : Sales Analysis with PySpark](https://github.com/aaudric/Projet-Big-Data)
 This project involves analyzing sales data using PySpark to extract insights and patterns from the data. The analysis includes data preprocessing, exploratory data analysis, and machine learning model building.
 
+### [Challenge-Data-SNCF 🚉](https://github.com/aaudric/Challenge-Data-SNCF)
+This project aims to predict the daily number of station validations in the Île-de-France region for SNCF-Transilien, using machine learning and deep learning models applied to multivariate time series data.
+
 ## Languages and Tools 
 <div>
 
